@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Javascript and JQuery"
-date:       2018-10-08 18:17:01 +0000
+date:       2018-10-08 14:17:02 -0400
 permalink:  javascript_and_jquery
 ---
 
 
-This was difficult for me to grasp at first, especially coming straight from Rails. Although Rails a JQuery are similar in a way, at first they seemed like completely different. 
+This was difficult for me to grasp at first, especially coming straight from Rails. Although Rails a JQuery are similar in a way, at first they seemed completely unrelated. 
 
 The first thing you need to know about JQuery, is that all we’re basically doing is passing information around. Here are the basic steps of a “get” request with JQuery:
 
